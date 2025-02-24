@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming: calling a function that does not exist.  The `bug.R` file contains code that attempts to use a nonexistent function, leading to an error. The `bugSolution.R` file provides a corrected version of the code.
